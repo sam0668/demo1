@@ -24,4 +24,13 @@
         android:layout_marginTop="62dp"
         android:text="Button" />
 
+    <Button
+        android:id="@+id/Button01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button1"
+        android:layout_marginLeft="60dp"
+        android:layout_toRightOf="@+id/button1"
+        android:text="Button" />
+
 </RelativeLayout>
